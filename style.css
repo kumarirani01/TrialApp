@@ -10,7 +10,7 @@ body {
 }
 
 header {
-  background-color: #84f1f7;
+  background-color: lightpink;
   padding: 0.5em;
   position: sticky;
   top: 0px;
@@ -22,8 +22,8 @@ nav {
 
 nav a {
   color: #f2f2f2;
-  text-decoration: none;
-  font-size: 1.5em;
+  text-decoration: ivory;
+  font-size: 20px;
   padding: 15px;
 }
 
@@ -39,12 +39,12 @@ nav a:hover {
 main {
   border: 1px solid gray;
   font-size: 1.2em;
-  padding: 1em;
+  padding: 0px;
 }
 
 main div {
   display: inline-block;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   width: 45%;
   margin-left: 1em;
 }
@@ -65,12 +65,12 @@ input[type='text'] {
 .submit-btn {
   padding: 10px;
   font-size: 1.2em;
-  border: 1px solid gray;
-  background-color: #5d83e2;
+  border: 1px solid palevioletred;
+  background-color: powderblue;
 }
 
 footer {
-  background-color: #cfd0d3;
+  background-color: palegreen;
   font-size: 1.2em;
   padding: 1.2em;
 }

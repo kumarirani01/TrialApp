@@ -1,6 +1,8 @@
-h1, h2 {
+h1,
+h2 {
   font-family: Lato;
-}h1,
+}
+h1,
 h2 {
   font-family: Lato;
 }
@@ -68,11 +70,16 @@ input[type='text'] {
   border: 1px solid palevioletred;
   background-color: powderblue;
 }
-
+.Reset-btn {
+  padding: 5px;
+  font-size: 0.5em;
+  border: 1px solid blanchedalmond;
+  background-color: palevioletred;
+}
 footer {
   background-color: palegreen;
   font-size: 1.2em;
-  padding: 1.2em;
+  padding: 1.3em;
 }
 .credits {
   float: right;

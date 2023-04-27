@@ -1,3 +1,79 @@
 h1, h2 {
   font-family: Lato;
+}h1,
+h2 {
+  font-family: Lato;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #84f1f7;
+  padding: 0.5em;
+  position: sticky;
+  top: 0px;
+}
+
+nav {
+  background-color: #191e1f;
+}
+
+nav a {
+  color: #f2f2f2;
+  text-decoration: none;
+  font-size: 1.5em;
+  padding: 15px;
+}
+
+.logo {
+  float: right;
+}
+
+nav a:hover {
+  background-color: #f0f7f8;
+  color: black;
+}
+
+main {
+  border: 1px solid gray;
+  font-size: 1.2em;
+  padding: 1em;
+}
+
+main div {
+  display: inline-block;
+  margin-bottom: 20px;
+  width: 45%;
+  margin-left: 1em;
+}
+
+.user-form {
+  border: 1px solid gray;
+  background-color: #f0f3f8;
+  padding: 20px;
+  font-size: 1.2em;
+}
+
+input[type='text'] {
+  width: 90%;
+  padding: 15px;
+  margin: 20px;
+}
+
+.submit-btn {
+  padding: 10px;
+  font-size: 1.2em;
+  border: 1px solid gray;
+  background-color: #5d83e2;
+}
+
+footer {
+  background-color: #cfd0d3;
+  font-size: 1.2em;
+  padding: 1.2em;
+}
+.credits {
+  float: right;
 }
